@@ -4,7 +4,7 @@
 
 ## Progresso do Curso
 
-![23%](https://progress-bar.dev/23/?color=green)
+![5%](https://progress-bar.dev/5/?color=green)
 
 ## O que estou aprendendo
 - JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end)
